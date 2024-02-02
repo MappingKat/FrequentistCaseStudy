@@ -1,0 +1,2 @@
+# FrequentistCaseStudy
+ Practicing statistic methods
